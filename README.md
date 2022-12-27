@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Ibrohimbek Davronbekov.
+## I'm Davronbekov Ibrohimbek.
 ### 💻 &nbsp;About Me 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
 - 🎓 &nbsp; Flutter developer.
@@ -17,7 +17,7 @@ I am interested in learning Mobile developing.
 - 😄 Pronouns: He/Him
 - ⚡️ Fun fact: I 💖 to code 24x7.
 <br/>
-### 💻 Stack I Work With
+💻 Stack I Work With
 <br>
 <p  align="center">
 <img src="https://img.shields.io/badge/Flutter-0078D4.svg?&style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
@@ -94,5 +94,4 @@ I am interested in learning Mobile developing.
   <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-------
-Last Edited on: 23/05/2022
+
