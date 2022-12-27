@@ -3,7 +3,7 @@
 ### 💻 &nbsp;About Me 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
 - 🎓 &nbsp; Flutter developer.
--  📱  &nbsp; I am interested in learning Mobile developing.
+- 📱   &nbsp; I am interested in learning Mobile developing.
 
 <img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/537e72d5e4b0074d267b221d/1590504988540-HCH54HIIGYM6E7ZJ6JUH/Avatar+white.png?format=500w" width="400" height="280" />
 
