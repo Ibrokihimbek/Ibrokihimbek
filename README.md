@@ -5,7 +5,7 @@
 - 🎓 &nbsp; Flutter developer.
 - 📱   &nbsp; I am interested in learning Mobile developing.
 
-<img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/537e72d5e4b0074d267b221d/1590504988540-HCH54HIIGYM6E7ZJ6JUH/Avatar+white.png?format=500w" width="400" height="280" />
+<img align="right" alt="GIF" src="https://png.pngtree.com/png-vector/20200312/ourmid/pngtree-modern-flat-design-concept-of-mobile-app-development-with-characters-building-png-image_2157837.jpg" width="400" height="280" />
 
 - 🔭 I’m currently working on Flutter Mobile Programming in Tashkent.
 - 🔭 I’m currently open to work in Tashkent onsite and remote.
