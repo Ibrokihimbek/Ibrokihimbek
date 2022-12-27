@@ -58,7 +58,7 @@
 <a href="https://www.linkedin.com/in/ibrohimbek-davronbekov/" target="_blank">
   <img align="center" alt="Ibrohimbek Davronbekov| Linkedin" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://ibrohim9902@gmail.com/ (https://emirsmorganson2000@gmail.com/)" >
+<a href="https://ibrohim9902@gmail.com/" >
   <img align="center" alt="Ibrohimbek Davronbekov| Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://t.me/Davronbekov_I">
