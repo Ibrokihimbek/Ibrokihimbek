@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Flutter Mobile Programming in Tashkent.
 - 🔭 I’m currently open to work in Tashkent onsite and remote.
 - 🌱 I’m currently learning clean architecture.
-- 👯 I’m looking to collaborate with companies to impore my experience.
+- 👯 I’am looking to collaborate with companies to improve my experience.
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about Flutter Development.
 - 😄 Pronouns: He/Him
