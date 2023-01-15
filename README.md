@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 ## I'm Davronbekov Ibrohimbek.
 ### 💻 &nbsp;About Me 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
@@ -14,7 +14,7 @@
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about Flutter Development.
 - 😄 Pronouns: He/Him
-- ⚡️ Fun fact: I 💖 to code 24x7.
+- ⚡️ Fun fact: I 💖 to code 24x7
 <br/>
 💻 Stack I Work With
 <br>
@@ -72,7 +72,7 @@
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
     
-<!-- retro visitor counter -->  
+<!-- retro visitor counter -->
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/AbdullohFlutterDeveloper/count.svg" />  
 </p>
